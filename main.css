@@ -1,0 +1,14 @@
+.nav-link {
+    color: white !important;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+
+.container-fluid {
+    background-color: #221c5c; 
+}
+
+.navbar {
+    margin-top: -10px;
+}
